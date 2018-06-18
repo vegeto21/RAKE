@@ -1,0 +1,884 @@
+name,weight
+short16 bitsint32 bitslong64 bitsfloat32 bits ieee 754-1985double64 bits ieee 754-1985java int types,120.6530825
+java basicsthis page intentionally left blank© 1996-2003 jguru,51.31715839
+•comments•declarations•expressions•statements•garbage collection•java semanticsportabilityjava programs,48.03425325
+automatically invoke predefined lifecyclemethodsthe predefined methods automatically invoked,45.575
+public class applettemplate extends applet {public void init,39.28074438
+public class paramtest extends applet {public void init,39.28074438
+public class trivialapplet extends applet {public void paint,36.78074438
+garbage collectionan automatic garbage collector deallocates memory,35.3982684
+java program executionthe java byte-code compiler translates,34.30032468
+•java basics -2no pointer arithmetic© 1996-2003 jguru,32.99308431
+pointer arithmetic•garbage collection•array bounds checking•,32.15151515
+blah blah blah */class blah {/**,31.83333333
+automatic garbage collection reduces programming effort,31.15151515
+java basics -9java basics// java codevoid foo,30.31580688
+java basics -11java basicselement typeelement 0element 1,29.57473545
+java basics -21java basicsjava basics -22© 1996-2003 jguru,28.993415
+class data implements cloneable {public int data = 0,28.23180483
+primitive typesprimitive typedescriptionbooleantrue/falsebyte8 bitschar16 bits,27.25
+thisthe current objectsuperthe superclass view,25
+class definition requires exception handling code,23.91518354
+class loader searches thedirectories listed,23.35483871
+java basicspublic class trivialapplication {// args[0],21.58234425
+youmust specifically instantiate java objects,20.54107143
+generic array object# elements© 1996-2003 jguru,20.25255754
+initialize applet}public void start,19.72853725
+applet drawing area needsthis method,19.52417582
+html/applet interfacethe html applet tag,19.23571429
+heap */java basics -12© 1996-2003 jguru,19.21867955
+operator bindjava basics -16© 1996-2003 jguru,19.08534622
+package definition togroup related classes,19.08333333
+vector objectprimitive typesthe java language,18.91964286
+suffixhexadecimal constant0x123octal constant077nullthe null object,18.67647059
+java basics -7java basics}}system,18.66732804
+java basics -19java basics}data,18.06316138
+features make java string programs portable,17.95954969
+illegal data conversions•browser level,17.57765152
+java basicsexpressionsmost java expressions,17.48214286
+labels refer tothe specific loop,17.16666667
+java basics•garbage collection--,16.90184584
+error-pronejava basics -20© 1996-2003 jguru,16.41867955
+20java basics -6© 1996-2003 jguru,16.41867955
+descriptionjava basics -15java basicsidi,16.08366402
+java basics -10© 1996-2003 jguru,15.90975098
+java basics -14© 1996-2003 jguru,15.90975098
+java basics -4© 1996-2003 jguru,15.90975098
+}}java basics -8© 1996-2003 jguru,15.90975098
+objectgeneral expressionsitem© 1996-2003 jguru,15.82608696
+command java trivialapplication tells,15.82440476
+java basics -3java basicsruntime,15.57473545
+java basics -1java basicsare,15.57473545
+java basics -5java basicsthreads,15.57473545
+java basics -17java basicssemantics,15.57473545
+java basics -13java basicssettitle,15.57473545
+public static void main,15.40948963
+automatic garbage collection,15.15151515
+/* c-style block comments */,15.1
+www programmingthe major differences,15
+avoid crashesduring program execution,14.81818182
+nonportable representation ofyour program,14.81818182
+java basicsdeclarationsa java variable,14.48214286
+secondpublic static void main,14.46212121
+potential memory leakage problemsbecause,14.42857143
+equivalent tothe const keyword,14.4
+class data {public int data = 0,14.23180483
+creates scoped symbol startingclassname,14
+native methodsrobustnessthe java language,13.91964286
+// java code// internally,13.56083887
+java basicsstringsjava string literals,13.53454969
+burden system resources unnecessarily,13.5
+}public void paint,13.49282297
+// java codeint foo,13.31083887
+}equalitytwo java primitive types,13.25622294
+java-compatible www browser orin,13.18181818
+exceptionsjava program structurea file,13.15151515
+static final string owner =,13.04347826
+bad method addresses•interfaces,13.03846154
+java compiler asnew string,13.03454969
+#NAME?,13.01626016
+awt class definitionsimport java,12.84591014
+availablefor garbage collection,12.81818182
+array objectoperatorsthe java language,12.16964286
+write incorrect code orviruses,12.06034483
+string bounds checking•,12.04347826
+makes java programs portable,11.91607143
+#NAME?,11.88793103
+garbage collector thread,11.81818182
+discussed exception handling,11.5
+}public void stop,11.49282297
+java basicsjava basicstopics,11.49107143
+}public void destroy,11.15948963
+button */© 1996-2003 jguru,11.14426877
+java basics -18////////,11.08366402
+#NAME?,11.01626016
+copy© 1996-2003 jguru,10.82608696
+•* / %•+ -•<< >> >>>•< > <= >= instanceof•==,10.74242424
+browser attemptingto invoke,10.68181818
+predefined lifecycle messagesfrom,10.6
+java basics}}//,10.15343146
+++ functionthat allocates 1000 objects,10.06626016
+class file trivialapplication,10.02150538
+static final keywords,10
+mml#3 $]© 1996-2003 jguru,9.826086957
+garbage collection,9.818181818
+html img tag,9.75
+runtime exception calledarrayindexoutofboundsexception,9.714285714
+// java codevoid,9.56083887
+classpath environment variable,9.5
+proper java statement,9.491071429
+reserve c-style comments,9.433333333
+#NAME?,9.432926829
+/** document comment */,9.416666667
+publicly visible class,9.35483871
+class width=300 height=200><param,9.35483871
+java applet class,9.331624424
+java primitive types,9.256222944
+bad addresses•array,9.25
+java class library,9.095910138
+code */int foo,9.060344828
+data-type sizes andformats,9
+world wide web,9
+securitythe java language,8.919642857
+fromall java methods,8.866071429
+garbage collector,8.818181818
+java runtime system,8.705357143
+}public object clone,8.623839009
+// java codenew,8.56083887
+complete applet displays,8.485714286
+memory allocation ishandled,8.428571429
+java source file,8.424404762
+java source code,8.401416256
+accompanying figure shows,8.333333333
+datais 1is 2and,8.333333333
+multi-dimensional java arrays,8.324404762
+public class,8.302207131
+equivalent java code,8.201416256
+const int version=1,8.137931034
+5 intsnew int[5]5int00000in,8.137931034
+#NAME?,8.116260163
+java basics -23,8.083664021
+java primitive type,8.074404762
+{// draw things,8.069767442
+button pointer */,8.068181818
+4to copy objects,8.05
+method members thatspecify,8.038461538
+window-manager function calls,8
+dynamically loadable libraries,8
+element n-1the syntax,8
+applet•sends messages,7.985714286
+applet executionan applet,7.971428571
+source file named,7.933333333
+pointer types,7.931818182
+class method call,7.893300248
+// java code,7.871183698
+3© 1996-2003 jguru,7.826086957
+© 1996-2003 jguru,7.826086957
+<applet code=appletname,7.796059113
+undefined array element,7.75
+multiple line comment,7.75
+gui inthis method,7.705128205
+>>> zero-extend right-shift operator,7.666666667
+set ofc++ operators,7.666666667
+functionwould allocate memory,7.61038961
+thesame class library,7.60483871
+pre-existing mainwindow•applets,7.6
+simply leave themout,7.5
+guaranteed tobe called,7.5
+32-bit integer copy,7.5
+memory inthis state,7.428571429
+address arithmetic,7.333333333
+machineindependent byte code,7.310344828
+structs *//* allocate,7.251585624
+// allocate space,7.251585624
+java objects reside,7.207738095
+java programs,7.116071429
+class definition,7.10483871
+method toconvert objects,7.088461538
+{// start threads,7.069767442
+/* allocate space,7.015151515
+unicode character constant,7
+predefined methods,6.975
+public data,6.843201754
+{// suspend threads,6.819767442
+•= *= /= %= += -= <<= >>= >>>= &= ^=,6.742424242
+{// create gui,6.736434109
+drawn inthis method,6.705128205
+instance method callclass,6.638461538
+•-- ++ +,6.592017738
+equivalent object type,6.576470588
+*/public void,6.545454545
+button pointer// point,6.484848485
+c-style comments,6.433333333
+defined array element,6.416666667
+java program,6.309253247
+void test,6.212121212
+executed onany platform,6.15
+access method push,6.038461538
+programming errors,6
+features designed,6
+java language,5.919642857
+primitive types,5.765151515
+document comment,5.75
+struct definition,5.75
+#NAME?,5.682926829
+portable program,5.618181818
+string method length,5.581939799
+java objects,5.541071429
+compiler implementor,5.5
+continue statements,5.5
+statementsjava statements,5.5
+system resources,5.5
+•interpreter level,5.5
+import java,5.491071429
+java semantics,5.491071429
+java basicsnote,5.491071429
+java basicsint *,5.491071429
+java semanticswe,5.491071429
+java methodcauses,5.491071429
+java basicstask,5.491071429
+java compilation,5.491071429
+java basicsdifferently,5.491071429
+class definitions,5.35483871
+class files,5.35483871
+class tnew,5.35483871
+java arrays,5.324404762
+#NAME?,5.307926829
+java strings,5.291071429
+final clean-,5.25
+<applet> tag,5.235714286
+runtime system,5.214285714
+www browser,5.181818182
+testcommentsjava comments,5.1
+java applets,5.091071429
+java applications,5.046626984
+->method,5.038461538
+class width=,5.021505376
+java break,4.991071429
+source code,4.910344828
+boolean types,4.848484848
+/* init,4.833333333
+integrateyour program,4.818181818
+javadoc program,4.818181818
+program complexity,4.818181818
+#NAME?,4.782926829
+allocates memory,4.761904762
+easily comment,4.75
+// include,4.736434109
+runtime nullpointerexception,4.714285714
+loop body,4.666666667
+gui components,4.666666667
+allocate memory,4.61038961
+source codedirectly,4.6
+primitive type,4.583333333
+•primitive typesint,4.583333333
+ignore messages,4.5
+simple syntax,4.5
+javaruntime system,4.5
+invoked,4.5
+put simply,4.5
+start animations,4.5
+trivialapplet,4.5
+995a][version,4.5
+applet constructor,4.485714286
+applet creation,4.485714286
+applet isrevisited,4.485714286
+applet terminates,4.485714286
+memory leaks,4.428571429
+array object,4.426470588
+string args[],4.376811594
+argument// args[1],4.333333333
+table shows,4.333333333
+aseparate file,4.333333333
+diagram shows,4.333333333
+local file,4.333333333
+code commentary,4.310344828
+byte code,4.310344828
+code places,4.310344828
+machine-independentbyte code,4.310344828
+code */button *,4.310344828
+array object--,4.25
+make array,4.25
+dynamic library,4.25
+suspend animations,4.25
+array objectsin,4.25
+array */button **,4.25
+five-element array,4.25
+stop threads}},4.25
+iconifyyour browser,4.181818182
+netscapenavigator browser,4.181818182
+object typespurely,4.176470588
+stale object,4.176470588
+height parameters,4.166666667
+section include,4.166666667
+main lines,4.166666667
+opening //,4.069767442
+{// display,4.069767442
+// ack,4.069767442
+// point,4.069767442
+// declare,4.069767442
+// create,4.069767442
+// dereference,4.069767442
+{// free,4.069767442
+// defines,4.069767442
+objects stored,4.05
+storing objects,4.05
+objects thatknow,4.05
+alljava objects,4.05
+usestringbuffer objects,4.05
+[3][4]string literal,4.043478261
+string literal,4.043478261
+method calledequals,4.038461538
+method takes,4.038461538
+/* allocate,4.015151515
+already-existing portions,4
+demand atruntime,4
+hard disks,4
+broad market,4
+latest versions,4
+constantsvariables modified,4
+implied assignments,4
+constant expressionsitemexamples,4
+objectsa simple,4
+stacks->push,4
+simple appletthe,4
+simple applicationconsider,4
+harm hardware,4
+remains allocateduntil,4
+ifthey refer,4
+becausethey handle,4
+trivial application,4
+initial context,4
+integer// defines,4
+rights reserved,4
+operating systems,4
+menu bar,4
+upper-left cornerg,4
+call super,4
+{case int-const-expr,4
+sections ofcode,4
+lowest priority,4
+sstill allocated,4
+hardware environments,4
+stat1case int-const-expr,4
+statdo-whiledo { stats },4
+interesting observation,4
+objectto perform,4
+declaration defines,4
+yourbrowser window,4
+equivalentcode fragments,4
+link phase,4
+continue apply,4
+compilation unit,4
+ill effects,4
+objectsassignment makes,4
+•paint,4
+stat3}forfor,4
+longer limited,4
+acompilation unit,4
+common statementsstatementexamplesifif,4
+contained components,4
+easily find,4
+char literal,4
+u00aeboolean literaltrue,4
+square brackets,4
+#NAME?,3.993271657
+object variables,3.976470588
+int variables,3.937931034
+machine language,3.928571429
+rewrite data,3.895833333
+method parameters,3.871794872
+#NAME?,3.859397418
+file called,3.833333333
+making arrays,3.833333333
+user-defined parameters,3.833333333
+/* declare,3.833333333
+opening /*,3.833333333
+ten arrays,3.833333333
+closing */,3.833333333
+variables refer,3.8
+variable-length strings,3.8
+data = data,3.791666667
+computer platform,3.75
+stop animations,3.75
+++ codebutton *,3.682926829
+#NAME?,3.682926829
+parameter definitions,3.666666667
+typename[] variablename,3.666666667
+typename variablename,3.666666667
+button object,3.661319073
+#NAME?,3.659090909
+stack */int,3.611111111
+run applets,3.6
+•unlike applets,3.6
+distributed applications,3.555555556
+•standalone applications,3.555555556
+•unlike applications,3.555555556
+•sockets back,3.5
+macapplication written,3.5
+ifyou don,3.5
+basic structure,3.5
+easily interpreted,3.5
+compiler,3.5
+illustrate thedifference,3.5
+returnreturn expr,3.5
+standard output,3.5
+immediately freed,3.5
+statements,3.5
+instantiated object--,3.5
+java,3.491071429
+java 1,3.491071429
+button[5]5buttonnullpointernullpointernullpointernullpointernullpointeryou,3.484848485
+button */init,3.484848485
+}button bfoo,3.484848485
+}button *bfoo,3.484848485
+button */settitle,3.484848485
+{// define,3.403100775
+instance variables,3.4
+class,3.35483871
+ints// reference,3.333333333
+reference semantics,3.333333333
+>[parameters]</applet>,3.333333333
+optional parameters,3.333333333
+reference injava,3.333333333
+button */,3.318181818
+return valuesarguments,3.307692308
+return values,3.307692308
+test applets,3.266666667
+{return data ==,3.203525641
+note lowercase,3.2
+}boolean equals,3.166666667
+comments,3.1
+init,3
+vector,3
+labels,3
+package,3
+•init,3
+default behavior,3
+program,2.818181818
+portable,2.8
+•start,2.75
+tag,2.75
+operators,2.666666667
+loop,2.666666667
+return calloc,2.507692308
+version,2.5
+{system,2.5
+system,2.5
+element,2.5
+applet,2.485714286
+memory,2.428571429
+language,2.428571429
+equivalent,2.4
+methods,2.375
+]allocates,2.333333333
+args,2.333333333
+classes,2.333333333
+height=,2.333333333
+1is 1,2.333333333
+file,2.333333333
+code,2.310344828
+threads,2.25
+array,2.25
+library,2.25
+browser,2.181818182
+allocate,2.181818182
+object,2.176470588
+main,2.166666667
+int[],2.137931034
+int[] {1,2.137931034
+int,2.137931034
+int[5],2.137931034
+//,2.069767442
+objects,2.05
+string,2.043478261
+#NAME?,2.043478261
+method,2.038461538
+leave,2
+access,2
+makes,2
+=34><param,2
+byte,2
+creates,2
+dynamically,2
+set,2
+•creates,2
+state,2
+point,2
+create,2
+thesame,2
+make,2
+<param,2
+unicode,2
+•stop,2
+[mml,2
+refer,2
+awt,2
+line,2
+type,2
+constant,2
+elements,2
+push,2
+calls,2
+2,1.909090909
++,1.909090909
+34,1.909090909
+data = 3,1.895833333
+data,1.895833333
+{ data =,1.895833333
+{data,1.895833333
+/,1.833333333
+/**,1.833333333
+/***,1.833333333
+parameters,1.833333333
+/*,1.833333333
+*/,1.833333333
+arrays,1.833333333
+variables,1.8
+heap,1.8
+strings,1.8
+platform,1.75
+getparameter,1.75
+animations,1.75
+write,1.75
+++,1.682926829
+•destroy,1.666666667
+boolean,1.666666667
+parameter,1.666666667
+== operator,1.666666667
+operator,1.666666667
+destroy,1.666666667
+drawn,1.666666667
+reside,1.666666667
+typename,1.666666667
+defined,1.666666667
+width,1.666666667
+test,1.666666667
+instance,1.6
+•applets,1.6
+applets,1.6
+applications•,1.555555556
+applications,1.555555556
+freed,1.5
+equals,1.5
+length,1.5
+clone,1.5
+machine,1.5
+break,1.5
+illustrate,1.5
+written,1.5
+sockets,1.5
+section,1.5
+#NAME?,1.5
+interpreted,1.5
+default,1.5
+expr,1.5
+></applet>,1.5
+optional,1.5
+called,1.5
+behavior,1.5
+null,1.5
+integer,1.5
+output,1.5
+super,1.5
+don,1.5
+instantiated,1.5
+#NAME?,1.5
+structure,1.5
+button[5],1.484848485
+button,1.484848485
+button *[5],1.484848485
+button *,1.484848485
+executed,1.4
+executed•,1.4
+reference,1.333333333
+define,1.333333333
+return,1.307692308
+{ return,1.307692308
+[0] = calloc,1.2
+#NAME?,1.2
+note,1.2
+[3] = calloc,1.2
+#NAME?,1.2
+stack *,1.111111111
+stack,1.111111111
+/modules/javabasics/javabasics,1
+forget,1
+lack,1
+leads,1
+corrupt/steal,1
+alt,1
+referring,1
+advantage,1
+tostring,1
+othermachines,1
+list,1
+item,1
+println,1
+deallocated,1
+accessing,1
+equal,1
+initialized,1
+hspace,1
+port,1
+abc,1
+npackage,1
+int-expr,1
+contrast,1
+redrawn,1
+obtained,1
+convert,1
+delimited,1
+prints,1
+secure,1
+isdata,1
+notnecessary,1
+5 ints,1
+flavors,1
+archives,1
+onetwo,1
+arrayobject,1
+#NAME?,1
+inaccessible,1
+heapwould,1
+employee,1
+portability,1
+pretend,1
+1+1=,1
+dlls,1
+executionsequence,1
+allowed,1
+14f,1
+calledonce,1
+scrollbars,1
+descriptionidi,1
+end,1
+means,1
+menus,1
+null-terminated,1
+7e6f,1
+7e6d,1
+buttonobject,1
+1int[],1
+jumping,1
+leading *,1
+constants,1
+constructor-args,1
+documentation,1
+order,1
+operations,1
+buttonsbutton **,1
+pointed,1
+including,1
+jim,1
+dispose,1
+forms,1
+objid[,1
+arguments,1
+combination,1
+bepreceded,1
+nested,1
+#NAME?,1
+execute,1
+parameterscodebase,1
+longerneeded,1
+realobjects,1
+•objectsbutton,1
+instantiates,1
+content,1
+internet,1
+issue,1
+processed,1
+completely,1
+stat2switchswitch,1
+objectresults,1
+javavariables,1
+created,1
+place,1
+isn,1
+signature,1
+allocatesmemory,1
+number,1
+linking,1
+size,1
+programinstantiates,1
+beginwith,1
+aplications,1
+returns,1
+passed,1
+convention,1
+valid--,1
+shallow,1
+serve,1
+part,1
+double,1
+pointers,1
+treated,1
+FALSE,1
+notspecify,1
+non-publicclass,1
+nullbutton,1
+index 0,1
+linked,1
+efficient,1
+*7new,1
+valueof,1
+5 references,1
+concatenated,1
+standardoutput,1
+added,1
+normal,1
+$id,1
+relieving,1
+0,1
+0,1
+considered,1
+arraya[0] =,1
+datab,1
+parseint,1
+painting,1
+text,1
+bring,1
+inflexible,1
+label,1
+giant,1
+removed,1
+precedence,1
+acollection,1
+buttons,1
+intconstantfloat4constantdoubleconstant3,1
+surroundingit,1
+runs,1
+calling,1
+hostplatform,1
+respond,1
+mandatory,1
+defense,1
+itb =,1
+concatenate,1
+creating,1
+efficiency,1
+restrictions,1
+commenting,1
+deallocating,1
+stat1,1
+copysemantics,1
+deiconify,1
+buttonsbutton[],1
+//////////,1
+javalanguage,1
+1and,1
+34p2,1
+leaked,1
+quit,1
+classthat,1
+addition,1
+pc,1
+life,1
+optionally,1
+initializersvariables,1
+methodshould,1
+graphics,1
+p2,1
+p1,1
+boolean-expr,1
+buttonsa[3] =,1
+align,1
+compile,1
+vspace,1
+applies,1
+•arraysint[],1
+whenquitting,1
+member,1
+amethod,1
+drawstring,1
+virtually,1
+consequence,1
+difficult,1
+stat2default,1
+assignment,1
+frameremoves,1
+effect,1
+running,1
+1+1=2,1
+robust,1
+task,1
+300p1,1
+assigned,1
+robust•,1
+appletviewer,1
+button/*,1
+bitmaps,1
+namelistqualified-idinteger,1
+TRUE,1
+//depot/main/src/,1
+stat1if,1
+translated,1
+automaticallys,1
+falsefalse,1
+examples,1
+sizeof,1
+jperforms,1
+provided,1
+statwhilewhile,1
+highest,1
+subclass,1
+calloc/malloc,1
+host,1
+namelistobj,1
+comparison,1
+obj,1
+3+4,1
+forexample,1
+referred,1
+software,1
+freeing,1
+float,1
+c-stylecomments,1
+terence,1
+references,1
+youoverride,1
+5 pointers,1
+notpresent,1
+generatedocumentation,1
+notices,1
+form,1
+andt,1
+tosubclass,1
+TRUE,1
+signed,1
+converted,1
+similar,1
+deep,1
+fill,1
+tedious,1
+compared,1
+invalid,1
+points,1
+details,1
+}}iiiiiiiivdata,1
+thisstatement,1
+max_value,1
+time,1
+systemresources,1
+suffix3,1
+3is 3,1
+javaobject,1
+1,0
+0,0
+[0],0
+[,0
+2,0
+3,0
+{,0
+0,0
+1,0
+<= 1000,0
+20,0
+3,0
+<10,0
+[3],0
+2,0
+14,0
+=•&•^•,0
+=,0
+],0
+==,0
+4},0
+][,0
+>,0
+}},0
+~,0
+= {1,0
+4,0
+•&&•,0
+3 == 3,0
+[3] =,0
+[0] =,0
+*,0
+[][],0
+[5],0
+[10][5],0
+5,0
+•,0
+},0
